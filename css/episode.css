@@ -1,6 +1,6 @@
 html,
 body {
-    background-color: #282828;
+    background-color: #00FFFF;
 }
 
 header {
@@ -8,7 +8,7 @@ header {
 }
 
 footer {
-    background: #eb3349;
+    background: #00FFFF;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
@@ -70,7 +70,7 @@ i {
 }
 
 .bg-indigo-500 {
-    background-color: #3ab4f2;
+    background-color: #00FFFF;
 }
 
 .bg-indigo-500:hover {
@@ -152,7 +152,7 @@ html {
     width: 100%;
     padding: 0px;
     margin: 0px;
-    background-color: #14151a;
+    background-color: #00FFFF;
     background-image: none;
     display: block;
     height: fit-content;
@@ -389,7 +389,7 @@ div {
 
 .sobtn {
     color: #ccc;
-    background-color: #35373d;
+    background-color: #00FFFF;
     padding: 8px 10px;
     border-radius: 4px;
     font-family: "Montserrat", sans-serif;
@@ -421,7 +421,7 @@ div {
 }
 
 body {
-    background-color: #282828;
+    background-color: #00FFFF;
 }
 
 header {
@@ -429,7 +429,7 @@ header {
 }
 
 footer {
-    background: #eb3349;
+    background: #00FFFF;
     display: flex;
     flex-wrap: nowrap;
     align-content: center;
@@ -572,7 +572,7 @@ html {
     width: 100%;
     padding: 0px;
     margin: 0px;
-    background-color: #14151a;
+    background-color: #00FFFF;
     background-image: none;
     display: block;
     height: fit-content;
@@ -774,7 +774,7 @@ div {
 
 .server {
     padding: 0px;
-    background-color: #202125;
+    background-color: #00FFFF;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -808,7 +808,7 @@ div {
 
 .sobtn {
     color: #ccc;
-    background-color: #35373d;
+    background-color: #00FFFF;
     padding: 8px 10px;
     border-radius: 4px;
     font-family: "Montserrat", sans-serif;
@@ -818,7 +818,7 @@ div {
 
 .sactive {
     color: #111;
-    background-color: #ed3832;
+    background-color: #00FFFF;
 }
 
 .status {
@@ -841,7 +841,7 @@ div {
 
 html,
 body {
-    background-color: #282828;
+    background-color: #00FFFF;
 }
 
 header {
