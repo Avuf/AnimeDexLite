@@ -89,7 +89,7 @@ html {
     width: 100%;
     padding: 0px;
     margin: 0px;
-    background-color: #14151a;
+    background-color: #00FFFF;
     background-image: none;
     display: block;
     height: fit-content;
@@ -245,7 +245,7 @@ h1 {
 }
 
 .year {
-    color: #dfdfdf;
+    color: #00FFFF;
     font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 400;
@@ -253,7 +253,7 @@ h1 {
 }
 
 .watch-btn {
-    background: #ed3832;
+    background: #00FFFF;
     color: black;
     border-radius: 4px;
     font-weight: 400;
